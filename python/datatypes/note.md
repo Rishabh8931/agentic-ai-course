@@ -44,3 +44,11 @@ spice_mix.add("cumin")
 print(f"After adding cumin: {id(spice_mix)}")
 
 ```
+
+# Numbers:-
+ it includes
+ - integers
+ - boolean
+ - real numbers
+ - complex number
+ 
